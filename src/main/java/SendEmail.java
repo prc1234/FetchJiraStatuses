@@ -33,8 +33,8 @@ public class SendEmail {
 	
 	public static void sendMail(){
 		SendEmail sendEmail = new SendEmail();
-    	final String user="unifieduser@apttus.com";//change accordingly 
-    	final String password="Y9!tywatJu2J";
+    	final String user="unifieduser@test.com";//change accordingly 
+    	final String password="Y9!";
     	String host = "smtp.office365.com";	
     
     	// Get system properties
